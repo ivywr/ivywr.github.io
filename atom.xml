@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ivywr.github.io</id>
+    <id>http://localhost:4000</id>
     <title>Gridea</title>
-    <updated>2023-07-23T14:40:14.358Z</updated>
+    <updated>2023-07-23T15:36:38.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ivywr.github.io"/>
-    <link rel="self" href="https://ivywr.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://ivywr.github.io/images/avatar.png</logo>
-    <icon>https://ivywr.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[install Nginx on MacOS]]></title>
+        <id>http://localhost:4000/post/install-nginx-on-macos/</id>
+        <link href="http://localhost:4000/post/install-nginx-on-macos/">
+        </link>
+        <updated>2023-07-23T15:29:44.000Z</updated>
+        <content type="html"><![CDATA[<p>#check if  Nginx  is already installed:<br>
+~% brew info nginx<br>
+<img src="http://localhost:4000/post-images/1690126371722.png" alt="" loading="lazy"></p>
+<h1 id="install-nginx">install Nginx</h1>
+<p>~% brew install nginx<br>
+<img src="http://localhost:4000/post-images/1690126472834.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ivywr.github.io/post/hello-gridea/</id>
-        <link href="https://ivywr.github.io/post/hello-gridea/">
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> !<br>
